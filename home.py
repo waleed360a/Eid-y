@@ -91,7 +91,7 @@ with st.sidebar:
 st.title(texts["title"])
 
 
-def create_image_with_name(name, template_path="./Moneymoon-Ramadan.jpg"):
+def create_image_with_name(name, template_path="./Moneymoon-Eid.jpg"):
     # Open the template image
     img = Image.open(template_path)
     draw = ImageDraw.Draw(img)
@@ -118,7 +118,7 @@ def create_image_with_name(name, template_path="./Moneymoon-Ramadan.jpg"):
     y = (img_height - text_height) / 2
 
     # Draw text on the image
-    draw.text((x, y-100), bidi_text, font=font, fill="#008afe")
+    draw.text((x, y-100), bidi_text, font=font, fill="#ffffff")
 
     return img
 
