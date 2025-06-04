@@ -53,7 +53,7 @@ translations = {
     "English": {
         "title": "Moneymoon Eid Images! 🎉",
         "sidebar_text": "Developed by Moneymoon's team",
-        "greeting": "Moneymoon family wishes you a happy Eid Al-Fitr! Please type your name and click the button to get your Eid Al-Fitr 2025 greeting card!",
+        "greeting": "Moneymoon family wishes you a happy Eid al-Adha! Please type your name and click the button to get your Eid al-Adha 2025 greeting card!",
         "name_label": "Name:",
         "generate_button": "Generate Eid Image",
         "caption": "Your Eid Image",
@@ -62,7 +62,7 @@ translations = {
     "Arabic": {
         "title": "عيد موني مون!🎉 ",
         "sidebar_text": "تم التطوير بواسطة فريق موني مون",
-        "greeting": "عائلة موني مون تتمنى لكم عيد فطر سعيد! يرجى كتابة اسمك والضغط على الزر للحصول على بطاقة تهنئة عيد الفطر",
+        "greeting": "عائلة موني مون تتمنى لكم عيد أضحى سعيد! يرجى كتابة اسمك والضغط على الزر للحصول على بطاقة تهنئة عيد الأضحى",
         "name_label": "الاسم:",
         "generate_button": "إنشاء بطاقة التهنئة",
         "caption": "صورتك للعيد",
